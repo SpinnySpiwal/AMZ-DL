@@ -1,0 +1,8 @@
+cfg.json
+*.bson
+*.wvd
+*.pem
+*.key
+*.bin
+*.cache
+rpc_quotes.txt
