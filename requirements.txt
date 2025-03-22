@@ -1,0 +1,7 @@
+pywidevine
+zlib
+requests
+bs4
+pypresence
+werkzeug
+pycryptodome
